@@ -18,7 +18,6 @@
 
 ## Installation
 
-### https://studio.mogenius.com/studio/cloud-space/id/9ae4aec2-ebc3-4845-9c9a-9f1baf4a7844/stage/bc8946f6-2e72-4569-8062-9dc6e521fb30/service/2883a13e-852e-4a84-bb2b-679c28f88386/overview
 ### Easy Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalanakt/imdb-autofilter-bot)
 
